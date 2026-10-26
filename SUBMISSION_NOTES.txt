@@ -1,0 +1,6 @@
+PACKAGE NOTES
+- The report is filled using the known React portfolio project context and a reproducible MERN starter implementation.
+- Replace "Student Developer" with the correct name before submission if required by your institution.
+- The institution is set to Sahrdaya College of Engineering & Technology based on the available academic context; verify it is the correct institution for this internship.
+- Run the client/server, configure MongoDB, execute the README test checklist, and add real screenshots/test results before claiming verification or deployment.
+- Do not include real secrets or personal contact submissions in the ZIP.
